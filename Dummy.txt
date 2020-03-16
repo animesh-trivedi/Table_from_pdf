@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "email": "mark.jose@gmail.com", 
+      "id": 1234, 
+      "name": "Mark Jose"
+    }, 
+    {
+      "email": "tom.bright@gmail.com", 
+      "id": 1235, 
+      "name": "Tom Bright"
+    }
+  ], 
+  "projects": [
+    {
+      "userids": [
+        1234, 
+        1235
+      ], 
+      "prjtitle": "Title 1", 
+      "prjid": 6096634
+    }, 
+    {
+      "userids": [
+        1234
+      ], 
+      "prjtitle": "Title 2", 
+      "prjid": 6096635
+    }, 
+    {
+      "userids": [
+        1235
+      ], 
+      "prjtitle": "Title 3", 
+      "prjid": 6096636
+    }
+  ]
+}
